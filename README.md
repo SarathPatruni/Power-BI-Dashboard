@@ -45,7 +45,8 @@ To understand employee attrition patterns and analyze workforce trends based on 
 ## Dashboard Preview
 
 ### Overview
-![Overview](file:///C:/Users/sarat/OneDrive/Desktop/Git/Advance.pdf)
+![Overview](Advance.pbix)
+
 
 ### Salary Distribution
 ![Salary](screenshots/salary_distribution.png)
