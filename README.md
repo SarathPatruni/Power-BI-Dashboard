@@ -42,5 +42,20 @@ To understand employee attrition patterns and analyze workforce trends based on 
 2. Open it using Power BI Desktop
 3. Use the slicers to interact with the dashboard
 
+## Dashboard Preview
+
+### Overview
+![Overview](file:///C:/Users/sarat/OneDrive/Desktop/Git/Advance.pdf)
+
+### Salary Distribution
+![Salary](screenshots/salary_distribution.png)
+
+### Monthly Trend
+![Trend](screenshots/monthly_trend.png)
+
+### Slicer Panel
+![Slicers]()
+
+
 ## Author
 Sarath Chandra
